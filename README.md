@@ -1,16 +1,26 @@
-## Hi there 👋
+## Hi, I'm Shubham 👋
 
-<!--
-**shubham-kuber/shubham-kuber** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 Aspiring Data Analyst transitioning into IT  
+📊 Skilled in Excel, Python, and Power BI  
+🤖 Exploring Data Science and AI/ML with hands-on projects  
+📈 Passionate about turning data into actionable business insights  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔧 Skills
+- Python (Pandas, NumPy, Matplotlib)
+- Excel (Pivot Tables, VLOOKUP, Data Cleaning)
+- Power BI (Dashboards, DAX basics)
+- Data Analysis & Visualization
+
+---
+
+### 📂 Projects
+- Vendor Performance Analysis
+- E-commerce Sales Dashboard
+- Google Search Analytics Project
+
+---
+
+### 📫 Connect with me
+- LinkedIn:https://www.linkedin.com/in/shubham-kuber-04ba76393
